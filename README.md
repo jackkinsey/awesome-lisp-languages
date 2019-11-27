@@ -46,6 +46,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Lua](#lua)
 - [Objective-C](#objective-c)
 - [OCaml](#ocaml)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -115,6 +116,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### OCaml
 
 - [Reason-Lisp](https://github.com/jaredly/myntax) [Type-A] very incomplete
+
+### PHP
+
+- [Pharen](http://www.pharen.org/) [Type-A] Compiles to PHP 5.5.
 
 ### Python
 
